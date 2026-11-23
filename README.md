@@ -1,4 +1,5 @@
-#Excalibur 2.0 Update 13.3
+#Excalibur
+2.0 Update 13.3
 Your games, apps, videos and photos — and your whole PC — in one place.
 Created by Sigurd, built together with Claude (Anthropic's AI).
 Download
